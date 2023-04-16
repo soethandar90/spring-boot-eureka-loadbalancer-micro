@@ -10,6 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class StockController {
     @GetMapping("/{productNumber}")
     public String getStock(@PathVariable String productNumber) {
-        return productNumber;
+        return "255";
     }
 }

@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>sa.assignment</groupId>
-    <artifactId>stock-service</artifactId>
+    <artifactId>stock-service2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>StockService</name>
     <description>SA Assignment Project Webshop</description>
