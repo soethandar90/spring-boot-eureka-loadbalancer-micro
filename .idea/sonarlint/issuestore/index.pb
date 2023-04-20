@@ -1,6 +1,4 @@
 
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 F
 stock-service2/pom.xml,b\4\b4f7e7f6ba3f4d41f8e103b152dfac8a22b8bff3
 ~
